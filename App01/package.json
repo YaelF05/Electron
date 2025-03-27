@@ -1,0 +1,22 @@
+{
+  "name": "app01",
+  "version": "1.0.0",
+  "description": "Primera aplicacion de electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YaelF05/Electron.git"
+  },
+  "author": "Yael F",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YaelF05/Electron/issues"
+  },
+  "homepage": "https://github.com/YaelF05/Electron#readme",
+  "devDependencies": {
+    "electron": "^35.1.2"
+  }
+}
